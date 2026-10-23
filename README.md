@@ -1,1 +1,1 @@
-# AI-Powered-Whatsapp-Chat-Analysis
+# Whatsapp-Chat-Analysis
